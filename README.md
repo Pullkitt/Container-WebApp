@@ -1,5 +1,7 @@
 # Containerized Web Application with PostgreSQL
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github)](https://github.com/Pullkitt/Container-WebApp)
+
 This repository contains a containerized web application built for Assignment 1 with the following stack:
 
 - FastAPI backend
@@ -8,6 +10,10 @@ This repository contains a containerized web application built for Assignment 1 
 - Docker Compose orchestration
 - External macvlan network with static IPs
 - Named volume for persistent PostgreSQL data
+
+## GitHub Repository
+
+https://github.com/Pullkitt/Container-WebApp
 
 ## Project Structure
 
